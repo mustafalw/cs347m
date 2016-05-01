@@ -1,0 +1,30 @@
+PID :: 1 TIME :: 1 EVENT :: Process Admitted
+PID :: 2 TIME :: 1 EVENT :: Process Admitted
+PID :: 3 TIME :: 1 EVENT :: Process Admitted
+PID :: 4 TIME :: 1 EVENT :: Process Admitted
+PID :: 5 TIME :: 1 EVENT :: Process Admitted
+PID :: 4 TIME :: 1 EVENT :: Process Dispatched
+PID :: 4 TIME :: 121 EVENT :: CPU Burst Completed
+PID :: 4 TIME :: 121 EVENT :: IO started
+PID :: 5 TIME :: 121 EVENT :: Process Dispatched
+PID :: 4 TIME :: 131 EVENT :: IO Completed
+PID :: 4 TIME :: 131 EVENT :: Process Completed
+PID :: 5 TIME :: 371 EVENT :: CPU Burst Completed
+PID :: 5 TIME :: 371 EVENT :: IO started
+PID :: 1 TIME :: 371 EVENT :: Process Dispatched
+PID :: 5 TIME :: 411 EVENT :: IO Completed
+PID :: 5 TIME :: 411 EVENT :: Process Completed
+PID :: 1 TIME :: 421 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 421 EVENT :: IO started
+PID :: 2 TIME :: 421 EVENT :: Process Dispatched
+PID :: 1 TIME :: 431 EVENT :: IO Completed
+PID :: 1 TIME :: 431 EVENT :: Process Completed
+PID :: 2 TIME :: 501 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 501 EVENT :: IO started
+PID :: 3 TIME :: 501 EVENT :: Process Dispatched
+PID :: 2 TIME :: 521 EVENT :: IO Completed
+PID :: 3 TIME :: 521 EVENT :: CPU Burst Completed
+PID :: 3 TIME :: 521 EVENT :: IO started
+PID :: 2 TIME :: 521 EVENT :: Process Completed
+PID :: 3 TIME :: 611 EVENT :: IO Completed
+PID :: 3 TIME :: 611 EVENT :: Process Completed

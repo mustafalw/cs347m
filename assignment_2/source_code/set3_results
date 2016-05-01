@@ -1,0 +1,62 @@
+pnum = 6, qnum = 8, tnum = 2
+Time   Query      PID  Location Status
+846750 input1que0 3859 0 in
+846901 input2que0 3860 1 in
+847284 input5que0 3865 2 in
+847308 input3que0 3861 3 in
+847438 input6que0 3866 4 in
+847614 input4que0 3862 5 in
+847750 input1que0 3859 out
+847750 input2que0 3860 out
+847785 input1que1 3859 6 in
+847790 input2que1 3860 7 in
+847927 input5que0 3865 out
+847958 input5que1 3865 0 in
+848214 input3que0 3861 out
+848250 input3que1 3861 1 in
+848253 input6que0 3866 out
+848276 input6que1 3866 2 in
+848316 input4que0 3862 out
+848353 input4que1 3862 3 in
+848453 input1que1 3859 out
+848456 input2que1 3860 out
+848470 input5que1 3865 out
+848484 input1que2 3859 4 in
+848485 input2que2 3860 6 in
+848485 input5que2 3865 5 in
+848823 input4que1 3862 out
+848823 input6que1 3866 out
+848830 input3que1 3861 out
+848843 input6que2 3866 7 in
+848847 input3que2 3861 1 in
+848847 input4que2 3862 0 in
+849310 input5que2 3865 out
+849313 input1que2 3859 out
+849313 input2que2 3860 out
+849330 input5que3 3865 2 in
+849337 input1que3 3859 3 in
+849338 input2que3 3860 4 in
+849583 input6que2 3866 out
+849601 input3que2 3861 out
+849602 input4que2 3862 out
+849623 input6que3 3866 5 in
+849624 input4que3 3862 7 in
+849625 input3que3 3861 6 in
+849994 input5que3 3865 out
+850004 input1que3 3859 out
+850023 input5que4 3865 0 in
+850028 input1que4 3859 1 in
+850052 input2que3 3860 out
+850075 input2que4 3860 2 in
+850318 input3que3 3861 out
+850320 input4que3 3862 out
+850320 input6que3 3866 out
+850354 input3que4 3861 3 in
+850366 input4que4 3862 4 in
+850367 input6que4 3866 5 in
+850774 input5que4 3865 out
+850795 input1que4 3859 out
+850795 input2que4 3860 out
+851303 input4que4 3862 out
+851303 input6que4 3866 out
+851528 input3que4 3861 out

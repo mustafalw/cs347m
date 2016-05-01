@@ -1,0 +1,50 @@
+PID :: 1 TIME :: 3 EVENT :: Process Admitted
+PID :: 1 TIME :: 3 EVENT :: Process Dispatched
+PID :: 2 TIME :: 11 EVENT :: Process Admitted
+PID :: 1 TIME :: 15 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 15 EVENT :: IO started
+PID :: 2 TIME :: 15 EVENT :: Process Dispatched
+PID :: 1 TIME :: 18 EVENT :: IO Completed
+PID :: 2 TIME :: 18 EVENT :: Process Preempted
+PID :: 1 TIME :: 18 EVENT :: Process Dispatched
+PID :: 1 TIME :: 40 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 40 EVENT :: IO started
+PID :: 2 TIME :: 40 EVENT :: Process Dispatched
+PID :: 2 TIME :: 41 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 41 EVENT :: IO started
+PID :: 1 TIME :: 43 EVENT :: IO Completed
+PID :: 1 TIME :: 43 EVENT :: Process Dispatched
+PID :: 2 TIME :: 46 EVENT :: IO Completed
+PID :: 1 TIME :: 65 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 65 EVENT :: IO started
+PID :: 2 TIME :: 65 EVENT :: Process Dispatched
+PID :: 1 TIME :: 68 EVENT :: IO Completed
+PID :: 1 TIME :: 68 EVENT :: Process Completed
+PID :: 2 TIME :: 71 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 71 EVENT :: IO started
+PID :: 2 TIME :: 78 EVENT :: IO Completed
+PID :: 2 TIME :: 78 EVENT :: Process Dispatched
+PID :: 2 TIME :: 84 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 84 EVENT :: IO started
+PID :: 2 TIME :: 91 EVENT :: IO Completed
+PID :: 2 TIME :: 91 EVENT :: Process Dispatched
+PID :: 2 TIME :: 97 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 97 EVENT :: IO started
+PID :: 2 TIME :: 104 EVENT :: IO Completed
+PID :: 2 TIME :: 104 EVENT :: Process Dispatched
+PID :: 2 TIME :: 112 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 112 EVENT :: IO started
+PID :: 2 TIME :: 121 EVENT :: IO Completed
+PID :: 2 TIME :: 121 EVENT :: Process Dispatched
+PID :: 2 TIME :: 129 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 129 EVENT :: IO started
+PID :: 2 TIME :: 138 EVENT :: IO Completed
+PID :: 2 TIME :: 138 EVENT :: Process Dispatched
+PID :: 2 TIME :: 146 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 146 EVENT :: IO started
+PID :: 2 TIME :: 155 EVENT :: IO Completed
+PID :: 2 TIME :: 155 EVENT :: Process Dispatched
+PID :: 2 TIME :: 163 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 163 EVENT :: IO started
+PID :: 2 TIME :: 172 EVENT :: IO Completed
+PID :: 2 TIME :: 172 EVENT :: Process Completed

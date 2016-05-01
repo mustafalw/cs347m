@@ -1,0 +1,62 @@
+pnum = 6, qnum = 2, tnum = 5
+Time   Query      PID  Location Status
+692604 input4que0 3743 0 in
+693326 input6que0 3745 0 in
+693354 input4que0 3743 out
+693472 input3que0 3742 1 in
+693493 input4que1 3743 0 in
+693573 input6que0 3745 out
+693695 input6que1 3745 0 in
+693723 input1que0 3740 1 in
+693765 input4que1 3743 out
+693829 input2que0 3741 2 in
+693893 input4que2 3743 0 in
+693988 input6que1 3745 out
+694126 input6que2 3745 0 in
+694165 input5que0 3744 2 in
+694170 input4que2 3743 out
+694205 input2que0 3741 out
+694317 input4que3 3743 0 in
+694433 input6que2 3745 out
+694530 input6que3 3745 0 in
+694615 input4que3 3743 out
+694773 input4que4 3743 0 in
+694859 input6que3 3745 out
+695035 input3que0 3742 out
+695092 input6que4 3745 0 in
+695183 input4que4 3743 out
+695340 input6que4 3745 out
+701985 input2que1 3741 1 in
+701989 input3que1 3742 2 in
+702069 input1que0 3740 out
+702071 input5que0 3744 out
+702319 input5que1 3744 1 in
+702323 input1que1 3740 2 in
+702395 input2que1 3741 out
+702428 input3que1 3742 out
+702520 input2que2 3741 1 in
+702540 input3que2 3742 2 in
+702604 input5que1 3744 out
+702624 input1que1 3740 out
+702809 input5que2 3744 1 in
+702821 input1que2 3740 2 in
+702869 input3que2 3742 out
+702870 input2que2 3741 out
+703106 input3que3 3742 1 in
+703134 input2que3 3741 2 in
+703195 input1que2 3740 out
+703200 input5que2 3744 out
+703307 input1que3 3740 1 in
+703308 input5que3 3744 2 in
+703399 input2que3 3741 out
+703399 input3que3 3742 out
+703519 input2que4 3741 1 in
+703556 input3que4 3742 2 in
+703605 input1que3 3740 out
+703610 input5que3 3744 out
+703758 input5que4 3744 1 in
+703762 input1que4 3740 2 in
+703821 input3que4 3742 out
+703824 input2que4 3741 out
+703998 input5que4 3744 out
+704017 input1que4 3740 out

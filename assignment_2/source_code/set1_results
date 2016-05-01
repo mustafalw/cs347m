@@ -1,0 +1,42 @@
+pnum = 4, qnum = 15, tnum = 5
+Time   Query      PID  Location Status
+968860 input1que0 3667 0 in
+968908 input2que0 3668 1 in
+969092 input3que0 3669 2 in
+969175 input4que0 3670 3 in
+969297 input2que0 3668 out
+969299 input1que0 3667 out
+969301 input3que0 3669 out
+969323 input4que0 3670 out
+969325 input2que1 3668 4 in
+969332 input3que1 3669 5 in
+969337 input1que1 3667 6 in
+969352 input4que1 3670 7 in
+969636 input1que1 3667 out
+969670 input3que1 3669 out
+969678 input1que2 3667 8 in
+969713 input3que2 3669 9 in
+969716 input2que1 3668 out
+969726 input4que1 3670 out
+969750 input2que2 3668 10 in
+969751 input4que2 3670 11 in
+970754 input3que2 3669 out
+970774 input3que3 3669 12 in
+970775 input1que2 3667 out
+970775 input4que2 3670 out
+970789 input1que3 3667 13 in
+970794 input2que2 3668 out
+970801 input2que3 3668 14 in
+970823 input4que3 3670 0 in
+971011 input3que3 3669 out
+971018 input2que3 3668 out
+971024 input1que3 3667 out
+971049 input2que4 3668 1 in
+971054 input3que4 3669 2 in
+971061 input1que4 3667 3 in
+971094 input4que3 3670 out
+971103 input4que4 3670 4 in
+971301 input2que4 3668 out
+971318 input1que4 3667 out
+971329 input3que4 3669 out
+971439 input4que4 3670 out

@@ -1,0 +1,53 @@
+PID :: 1  TIME :: 1  EVENT :: Process Admitted
+PID :: 2  TIME :: 1  EVENT :: Process Admitted
+PID :: 3  TIME :: 1  EVENT :: Process Admitted
+PID :: 4  TIME :: 1  EVENT :: Process Admitted
+PID :: 5  TIME :: 1  EVENT :: Process Admitted
+PID :: 1  TIME :: 1  EVENT :: CPU started
+PID :: 1  TIME :: 21  EVENT :: Process demoted to level 4
+PID :: 1  TIME :: 21  EVENT :: Time slice ended
+PID :: 2  TIME :: 21  EVENT :: CPU started
+PID :: 2  TIME :: 61  EVENT :: Process demoted to level 3
+PID :: 2  TIME :: 61  EVENT :: Time slice ended
+PID :: 1  TIME :: 61  EVENT :: CPU started
+PID :: 1  TIME :: 101  EVENT :: Process demoted to level 3
+PID :: 1  TIME :: 101  EVENT :: Time slice ended
+PID :: 4  TIME :: 101  EVENT :: CPU started
+PID :: 4  TIME :: 151  EVENT :: Process promoted to level 4
+PID :: 4  TIME :: 151  EVENT :: CPU burst completed	
+PID :: 4  TIME :: 151  EVENT :: IO started
+PID :: 2  TIME :: 151  EVENT :: CPU started
+PID :: 4  TIME :: 161  EVENT :: IO burst completed
+PID :: 4  TIME :: 161  EVENT :: Process terminated
+PID :: 2  TIME :: 221  EVENT :: Process demoted to level 2
+PID :: 2  TIME :: 221  EVENT :: Time slice ended
+PID :: 1  TIME :: 221  EVENT :: CPU started
+PID :: 1  TIME :: 291  EVENT :: Process demoted to level 2
+PID :: 1  TIME :: 291  EVENT :: Time slice ended
+PID :: 5  TIME :: 291  EVENT :: CPU started
+PID :: 5  TIME :: 371  EVENT :: Process promoted to level 3
+PID :: 5  TIME :: 371  EVENT :: CPU burst completed	
+PID :: 5  TIME :: 371  EVENT :: IO started
+PID :: 2  TIME :: 371  EVENT :: CPU started
+PID :: 2  TIME :: 381  EVENT :: Process promoted to level 3
+PID :: 2  TIME :: 381  EVENT :: CPU burst completed	
+PID :: 2  TIME :: 381  EVENT :: IO started
+PID :: 1  TIME :: 381  EVENT :: CPU started
+PID :: 5  TIME :: 391  EVENT :: IO burst completed
+PID :: 2  TIME :: 391  EVENT :: IO burst completed
+PID :: 5  TIME :: 391  EVENT :: Process terminated
+PID :: 2  TIME :: 391  EVENT :: Process terminated
+PID :: 1  TIME :: 471  EVENT :: Process demoted to level 1
+PID :: 1  TIME :: 471  EVENT :: Time slice ended
+PID :: 3  TIME :: 471  EVENT :: CPU started
+PID :: 3  TIME :: 491  EVENT :: Process promoted to level 2
+PID :: 3  TIME :: 491  EVENT :: CPU burst completed	
+PID :: 3  TIME :: 491  EVENT :: IO started
+PID :: 1  TIME :: 491  EVENT :: CPU started
+PID :: 1  TIME :: 521  EVENT :: Process promoted to level 2
+PID :: 1  TIME :: 521  EVENT :: CPU burst completed	
+PID :: 1  TIME :: 521  EVENT :: IO started
+PID :: 1  TIME :: 561  EVENT :: IO burst completed
+PID :: 1  TIME :: 561  EVENT :: Process terminated
+PID :: 3  TIME :: 581  EVENT :: IO burst completed
+PID :: 3  TIME :: 581  EVENT :: Process terminated

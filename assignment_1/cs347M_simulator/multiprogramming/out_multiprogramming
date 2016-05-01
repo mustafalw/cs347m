@@ -1,0 +1,60 @@
+PID :: 1 TIME :: 3 EVENT :: Process Admitted
+PID :: 1 TIME :: 3 EVENT :: Process Dispatched
+PID :: 2 TIME :: 11 EVENT :: Process Admitted
+PID :: 1 TIME :: 11 EVENT :: Process Preempted
+PID :: 2 TIME :: 11 EVENT :: Process Dispatched
+PID :: 2 TIME :: 15 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 15 EVENT :: IO started
+PID :: 1 TIME :: 15 EVENT :: Process Dispatched
+PID :: 1 TIME :: 19 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 19 EVENT :: IO started
+PID :: 2 TIME :: 20 EVENT :: IO Completed
+PID :: 2 TIME :: 20 EVENT :: Process Dispatched
+PID :: 1 TIME :: 22 EVENT :: IO Completed
+PID :: 2 TIME :: 26 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 26 EVENT :: IO started
+PID :: 1 TIME :: 26 EVENT :: Process Dispatched
+PID :: 2 TIME :: 33 EVENT :: IO Completed
+PID :: 1 TIME :: 33 EVENT :: Process Preempted
+PID :: 2 TIME :: 33 EVENT :: Process Dispatched
+PID :: 2 TIME :: 39 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 39 EVENT :: IO started
+PID :: 1 TIME :: 39 EVENT :: Process Dispatched
+PID :: 2 TIME :: 46 EVENT :: IO Completed
+PID :: 1 TIME :: 46 EVENT :: Process Preempted
+PID :: 2 TIME :: 46 EVENT :: Process Dispatched
+PID :: 2 TIME :: 52 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 52 EVENT :: IO started
+PID :: 1 TIME :: 52 EVENT :: Process Dispatched
+PID :: 2 TIME :: 59 EVENT :: IO Completed
+PID :: 1 TIME :: 59 EVENT :: Process Preempted
+PID :: 2 TIME :: 59 EVENT :: Process Dispatched
+PID :: 2 TIME :: 67 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 67 EVENT :: IO started
+PID :: 1 TIME :: 67 EVENT :: Process Dispatched
+PID :: 1 TIME :: 68 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 68 EVENT :: IO started
+PID :: 1 TIME :: 71 EVENT :: IO Completed
+PID :: 1 TIME :: 71 EVENT :: Process Dispatched
+PID :: 2 TIME :: 76 EVENT :: IO Completed
+PID :: 1 TIME :: 76 EVENT :: Process Preempted
+PID :: 2 TIME :: 76 EVENT :: Process Dispatched
+PID :: 2 TIME :: 84 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 84 EVENT :: IO started
+PID :: 1 TIME :: 84 EVENT :: Process Dispatched
+PID :: 2 TIME :: 93 EVENT :: IO Completed
+PID :: 1 TIME :: 93 EVENT :: Process Preempted
+PID :: 2 TIME :: 93 EVENT :: Process Dispatched
+PID :: 2 TIME :: 101 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 101 EVENT :: IO started
+PID :: 1 TIME :: 101 EVENT :: Process Dispatched
+PID :: 1 TIME :: 109 EVENT :: CPU Burst Completed
+PID :: 1 TIME :: 109 EVENT :: IO started
+PID :: 2 TIME :: 110 EVENT :: IO Completed
+PID :: 2 TIME :: 110 EVENT :: Process Dispatched
+PID :: 1 TIME :: 112 EVENT :: IO Completed
+PID :: 1 TIME :: 112 EVENT :: Process Completed
+PID :: 2 TIME :: 118 EVENT :: CPU Burst Completed
+PID :: 2 TIME :: 118 EVENT :: IO started
+PID :: 2 TIME :: 127 EVENT :: IO Completed
+PID :: 2 TIME :: 127 EVENT :: Process Completed

@@ -1,0 +1,46 @@
+Raj Maheshwari - 13D070022
+Mustafa Lokhandwala - 13D070043
+
+We have submitted the three SCHEDULER_SPEC files (which are in the respective folders) which are the same for both the parts, A and B, and a different PROCESS_SPEC for each part.
+
+Part A:-
+
+We have given higher starting priority to processes with larger CPU burst requirement, as a result of which, such processes get demoted when run according to the multi-level scheduler while this kind of action is not seen for multiprogramming and time sharing schedulers. The difference in multiprogramming and time sharing schedulers comes from the fact that the processes which require high CPU time and have high starting priority finish earlier and starve other processes in case of multiprogramming while in the case of time sharing they end later because of round robin scheme.
+
+Results:- 
+
+Table of process completion times under different schedulers
+
+Process ID  Multiprogramming    Time Sharing    Multi-level
+    1               291             561             561
+    2               381             481             391
+    3               611             311             581
+    4               431             281             161
+    5               521             371             391
+    
+Order of Process Completion:-
+
+Multiprogramming: P1-->P2-->P4-->P5-->P3
+Time sharing:     P4-->P3-->P5-->P2-->P1
+Multi-level:      P4-->P5<=>P2-->P1-->P3
+
+************************************************************************************
+
+Part B:-
+
+The basic idea in this set of processes is that no process needs more than one time slice to complete so round robin scheduling does not come into play and every process gets finished in the provided time slice. Moreover, processes requiring low CPU burst are given higher priority, which in effect does not show any change when these processes are run under multi-level or multiprogramming scheduler.
+
+Results:-
+
+Table of process completion times under different schedulers
+
+Process ID  Multiprogramming    Time Sharing    Multi-level
+    1               26              26              26
+    2               86              86              86
+    3               191             191             191
+    4               196             196             196
+    5               296             296             296
+    
+Order of Process Completion (same in all schedulers):-
+
+P1-->P2-->P3-->P4-->P5
